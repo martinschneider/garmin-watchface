@@ -1,0 +1,106 @@
+{
+  "settings" : [ {
+    "key" : "backgroundColor",
+    "valueType" : "number",
+    "defaultValue" : 0,
+    "configTitle" : "backgroundColorTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "colorBlack",
+      "value" : 0
+    }, {
+      "display" : "colorDarkGray",
+      "value" : 1
+    }, {
+      "display" : "colorDarkBlue",
+      "value" : 2
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "hourColor",
+    "valueType" : "number",
+    "defaultValue" : 1,
+    "configTitle" : "hourColorTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "colorWhite",
+      "value" : 0
+    }, {
+      "display" : "colorOrange",
+      "value" : 1
+    }, {
+      "display" : "colorTurquoise",
+      "value" : 2
+    }, {
+      "display" : "colorPink",
+      "value" : 3
+    }, {
+      "display" : "colorLimeGreen",
+      "value" : 4
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "minuteColor",
+    "valueType" : "number",
+    "defaultValue" : 0,
+    "configTitle" : "minuteColorTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "colorOrange",
+      "value" : 0
+    }, {
+      "display" : "colorWhite",
+      "value" : 1
+    }, {
+      "display" : "colorTurquoise",
+      "value" : 2
+    }, {
+      "display" : "colorLavender",
+      "value" : 3
+    }, {
+      "display" : "colorYellow",
+      "value" : 4
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "valyrian" : {
+      "colorOrange" : "Orange",
+      "colorDarkBlue" : "Dark Blue",
+      "colorLimeGreen" : "Lime Green",
+      "colorDarkGray" : "Dark Gray",
+      "colorYellow" : "Yellow",
+      "colorPink" : "Pink",
+      "colorWhite" : "White",
+      "AppName" : "Fuzzy Time Clone",
+      "backgroundColorTitle" : "Background",
+      "colorLavender" : "Lavender",
+      "minuteColorTitle" : "Minute String Colour",
+      "hourColorTitle" : "Hour String Colour",
+      "colorBlack" : "Black",
+      "colorTurquoise" : "Turquoise"
+    }
+  }
+}

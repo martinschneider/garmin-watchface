@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/martin/Downloads/FuzzyTimeClone/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="1" lineNum="5" parent="globals/FuzzyTimeApp" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="2" lineNum="23" parent="globals" pc="268435472" symbol="getApp"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="2" lineNum="24" parent="globals" pc="268435482" symbol="getApp"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/gen/no-device/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435493" symbol="&lt;init&gt;"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="4" lineNum="8" parent="globals/FuzzyTimeView" pc="268435513" symbol="&lt;init&gt;"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="5" lineNum="11" parent="globals/FuzzyTimeApp" pc="268435525" symbol="onStart"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="6" lineNum="17" parent="globals/FuzzyTimeApp" pc="268435528" symbol="getInitialView"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="6" lineNum="18" parent="globals/FuzzyTimeApp" pc="268435530" symbol="getInitialView"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="7" lineNum="7" parent="globals/FuzzyTimeApp" pc="268435556" symbol="initialize"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="7" lineNum="8" parent="globals/FuzzyTimeApp" pc="268435558" symbol="initialize"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeApp.mc" id="8" lineNum="14" parent="globals/FuzzyTimeApp" pc="268435571" symbol="onStop"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="162" parent="globals/FuzzyTimeView" pc="268435574" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="164" parent="globals/FuzzyTimeView" pc="268435577" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="167" parent="globals/FuzzyTimeView" pc="268435590" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="168" parent="globals/FuzzyTimeView" pc="268435598" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="169" parent="globals/FuzzyTimeView" pc="268435601" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="173" parent="globals/FuzzyTimeView" pc="268435614" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="174" parent="globals/FuzzyTimeView" pc="268435621" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="175" parent="globals/FuzzyTimeView" pc="268435628" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="178" parent="globals/FuzzyTimeView" pc="268435635" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="180" parent="globals/FuzzyTimeView" pc="268435647" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="181" parent="globals/FuzzyTimeView" pc="268435654" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="182" parent="globals/FuzzyTimeView" pc="268435689" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="183" parent="globals/FuzzyTimeView" pc="268435697" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="184" parent="globals/FuzzyTimeView" pc="268435709" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="187" parent="globals/FuzzyTimeView" pc="268435745" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="188" parent="globals/FuzzyTimeView" pc="268435755" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="189" parent="globals/FuzzyTimeView" pc="268435763" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="191" parent="globals/FuzzyTimeView" pc="268435770" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="192" parent="globals/FuzzyTimeView" pc="268435782" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="11" lineNum="193" parent="globals/FuzzyTimeView" pc="268435797" symbol="getFuzzyTimeParts"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="12" lineNum="14" parent="globals/FuzzyTimeView" pc="268435831" symbol="onLayout"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="12" lineNum="15" parent="globals/FuzzyTimeView" pc="268435833" symbol="onLayout"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="221" parent="globals/FuzzyTimeView" pc="268435867" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="222" parent="globals/FuzzyTimeView" pc="268435869" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="222" parent="globals/FuzzyTimeView" pc="268435877" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="223" parent="globals/FuzzyTimeView" pc="268435886" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="223" parent="globals/FuzzyTimeView" pc="268435894" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="224" parent="globals/FuzzyTimeView" pc="268435903" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="224" parent="globals/FuzzyTimeView" pc="268435911" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="225" parent="globals/FuzzyTimeView" pc="268435920" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="225" parent="globals/FuzzyTimeView" pc="268435928" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="226" parent="globals/FuzzyTimeView" pc="268435937" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="226" parent="globals/FuzzyTimeView" pc="268435945" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="13" lineNum="227" parent="globals/FuzzyTimeView" pc="268435954" symbol="getMinuteTextTo"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="197" parent="globals/FuzzyTimeView" pc="268435961" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="198" parent="globals/FuzzyTimeView" pc="268435963" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="198" parent="globals/FuzzyTimeView" pc="268435971" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="199" parent="globals/FuzzyTimeView" pc="268435980" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="199" parent="globals/FuzzyTimeView" pc="268435988" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="200" parent="globals/FuzzyTimeView" pc="268435997" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="200" parent="globals/FuzzyTimeView" pc="268436005" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="201" parent="globals/FuzzyTimeView" pc="268436014" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="201" parent="globals/FuzzyTimeView" pc="268436022" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="202" parent="globals/FuzzyTimeView" pc="268436031" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="202" parent="globals/FuzzyTimeView" pc="268436039" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="203" parent="globals/FuzzyTimeView" pc="268436048" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="203" parent="globals/FuzzyTimeView" pc="268436056" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="204" parent="globals/FuzzyTimeView" pc="268436065" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="204" parent="globals/FuzzyTimeView" pc="268436073" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="205" parent="globals/FuzzyTimeView" pc="268436082" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="205" parent="globals/FuzzyTimeView" pc="268436090" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="206" parent="globals/FuzzyTimeView" pc="268436099" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="206" parent="globals/FuzzyTimeView" pc="268436107" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="207" parent="globals/FuzzyTimeView" pc="268436116" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="207" parent="globals/FuzzyTimeView" pc="268436124" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="208" parent="globals/FuzzyTimeView" pc="268436133" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="208" parent="globals/FuzzyTimeView" pc="268436141" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="15" lineNum="209" parent="globals/FuzzyTimeView" pc="268436150" symbol="getHourText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="16" lineNum="10" parent="globals/FuzzyTimeView" pc="268436157" symbol="initialize"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="16" lineNum="11" parent="globals/FuzzyTimeView" pc="268436159" symbol="initialize"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="21" parent="globals/FuzzyTimeView" pc="268436172" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="23" parent="globals/FuzzyTimeView" pc="268436175" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="25" parent="globals/FuzzyTimeView" pc="268436221" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="27" parent="globals/FuzzyTimeView" pc="268436244" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="28" parent="globals/FuzzyTimeView" pc="268436263" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="29" parent="globals/FuzzyTimeView" pc="268436281" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="30" parent="globals/FuzzyTimeView" pc="268436299" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="31" parent="globals/FuzzyTimeView" pc="268436314" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="33" parent="globals/FuzzyTimeView" pc="268436329" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="40" parent="globals/FuzzyTimeView" pc="268436388" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="45" parent="globals/FuzzyTimeView" pc="268436405" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="46" parent="globals/FuzzyTimeView" pc="268436481" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="47" parent="globals/FuzzyTimeView" pc="268436548" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="49" parent="globals/FuzzyTimeView" pc="268436562" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="50" parent="globals/FuzzyTimeView" pc="268436565" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="51" parent="globals/FuzzyTimeView" pc="268436571" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="52" parent="globals/FuzzyTimeView" pc="268436578" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="53" parent="globals/FuzzyTimeView" pc="268436585" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="56" parent="globals/FuzzyTimeView" pc="268436591" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="57" parent="globals/FuzzyTimeView" pc="268436605" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="59" parent="globals/FuzzyTimeView" pc="268436613" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="60" parent="globals/FuzzyTimeView" pc="268436622" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="61" parent="globals/FuzzyTimeView" pc="268436631" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="64" parent="globals/FuzzyTimeView" pc="268436638" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="65" parent="globals/FuzzyTimeView" pc="268436648" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="66" parent="globals/FuzzyTimeView" pc="268436661" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="67" parent="globals/FuzzyTimeView" pc="268436677" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="70" parent="globals/FuzzyTimeView" pc="268436690" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="73" parent="globals/FuzzyTimeView" pc="268436708" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="74" parent="globals/FuzzyTimeView" pc="268436722" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="83" parent="globals/FuzzyTimeView" pc="268436741" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="86" parent="globals/FuzzyTimeView" pc="268436748" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="88" parent="globals/FuzzyTimeView" pc="268436759" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="91" parent="globals/FuzzyTimeView" pc="268436764" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="92" parent="globals/FuzzyTimeView" pc="268436778" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="101" parent="globals/FuzzyTimeView" pc="268436807" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="102" parent="globals/FuzzyTimeView" pc="268436821" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="111" parent="globals/FuzzyTimeView" pc="268436847" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="112" parent="globals/FuzzyTimeView" pc="268436861" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="122" parent="globals/FuzzyTimeView" pc="268436893" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="123" parent="globals/FuzzyTimeView" pc="268436907" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="131" parent="globals/FuzzyTimeView" pc="268436939" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="132" parent="globals/FuzzyTimeView" pc="268436953" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="142" parent="globals/FuzzyTimeView" pc="268436985" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="18" lineNum="143" parent="globals/FuzzyTimeView" pc="268436999" symbol="onUpdate"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="212" parent="globals/FuzzyTimeView" pc="268437019" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="213" parent="globals/FuzzyTimeView" pc="268437021" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="213" parent="globals/FuzzyTimeView" pc="268437029" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="214" parent="globals/FuzzyTimeView" pc="268437038" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="214" parent="globals/FuzzyTimeView" pc="268437046" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="215" parent="globals/FuzzyTimeView" pc="268437055" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="215" parent="globals/FuzzyTimeView" pc="268437063" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="216" parent="globals/FuzzyTimeView" pc="268437072" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="216" parent="globals/FuzzyTimeView" pc="268437080" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="217" parent="globals/FuzzyTimeView" pc="268437089" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="217" parent="globals/FuzzyTimeView" pc="268437097" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/source/FuzzyTimeView.mc" id="19" lineNum="218" parent="globals/FuzzyTimeView" pc="268437106" symbol="getMinuteText"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/gen/no-device/source/Rez.mcgen" id="20" lineNum="13" parent="globals/Rez/Layouts" pc="268437113" symbol="WatchFace"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/gen/no-device/source/Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268437124" symbol="WatchFace"/>
+        <entry filename="/home/martin/Downloads/FuzzyTimeClone/gen/no-device/source/Rez.mcgen" id="20" lineNum="16" parent="globals/Rez/Layouts" pc="268437241" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="11" method="true" symbol="getMinuteText"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="12" method="true" symbol="getMinuteTextTo"/>
+        <entry field="true" id="8388938" symbol="month"/>
+        <entry id="7" object="true" symbol="FuzzyTimeView"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="9" method="true" symbol="getFuzzyTimeParts"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="5" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389338" symbol="minute"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="10" method="true" symbol="getHourText"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="6" object="true" symbol="FuzzyTimeApp"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="15" symbol="connector"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="8388720" symbol="hour"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry field="true" id="8388940" symbol="year"/>
+        <entry id="8" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435830" name="hour" stackId="1" startPc="268435574"/>
+        <entry arg="true" endPc="268435830" name="minute" stackId="2" startPc="268435574"/>
+        <entry endPc="268435829" name="roundedMin" stackId="3" startPc="268435577"/>
+        <entry endPc="268435829" name="hour12" stackId="4" startPc="268435577"/>
+        <entry endPc="268435829" name="hourText" stackId="5" startPc="268435577"/>
+        <entry endPc="268435741" name="minuteText" stackId="6" startPc="268435697"/>
+        <entry endPc="268435829" name="nextHour" stackId="7" startPc="268435745"/>
+        <entry endPc="268435829" name="nextHourText" stackId="8" startPc="268435745"/>
+        <entry endPc="268435829" name="minuteText" stackId="9" startPc="268435745"/>
+        <entry arg="true" endPc="268435866" name="dc" stackId="1" startPc="268435831"/>
+        <entry arg="true" endPc="268435960" name="minute" stackId="1" startPc="268435867"/>
+        <entry arg="true" endPc="268436156" name="hour" stackId="1" startPc="268435961"/>
+        <entry arg="true" endPc="268437018" name="dc" stackId="1" startPc="268436172"/>
+        <entry endPc="268437017" name="random" stackId="2" startPc="268436175"/>
+        <entry endPc="268437017" name="randomYear" stackId="3" startPc="268436175"/>
+        <entry endPc="268437017" name="randomMonth" stackId="4" startPc="268436175"/>
+        <entry endPc="268437017" name="randomDay" stackId="5" startPc="268436175"/>
+        <entry endPc="268437017" name="randomHour" stackId="6" startPc="268436175"/>
+        <entry endPc="268437017" name="randomMin" stackId="7" startPc="268436175"/>
+        <entry endPc="268437017" name="testTime" stackId="8" startPc="268436175"/>
+        <entry endPc="268437017" name="now" stackId="9" startPc="268436175"/>
+        <entry endPc="268437017" name="dateString" stackId="10" startPc="268436175"/>
+        <entry endPc="268437017" name="timeString" stackId="11" startPc="268436175"/>
+        <entry endPc="268437017" name="fuzzyParts" stackId="12" startPc="268436175"/>
+        <entry endPc="268437017" name="bgColor" stackId="13" startPc="268436175"/>
+        <entry endPc="268437017" name="dateTimeColor" stackId="14" startPc="268436175"/>
+        <entry endPc="268437017" name="minuteColor" stackId="15" startPc="268436175"/>
+        <entry endPc="268437017" name="connectorColor" stackId="16" startPc="268436175"/>
+        <entry endPc="268437017" name="hourColor" stackId="17" startPc="268436175"/>
+        <entry endPc="268437017" name="width" stackId="18" startPc="268436175"/>
+        <entry endPc="268437017" name="height" stackId="19" startPc="268436175"/>
+        <entry endPc="268437017" name="centerX" stackId="20" startPc="268436175"/>
+        <entry endPc="268437017" name="scale" stackId="21" startPc="268436175"/>
+        <entry endPc="268437017" name="dateYPos" stackId="22" startPc="268436175"/>
+        <entry endPc="268437017" name="timeYPos" stackId="23" startPc="268436175"/>
+        <entry endPc="268437017" name="lineHeight" stackId="24" startPc="268436175"/>
+        <entry endPc="268437017" name="fuzzyFont" stackId="25" startPc="268436175"/>
+        <entry endPc="268437017" name="centerY" stackId="26" startPc="268436175"/>
+        <entry endPc="268437017" name="has3Lines" stackId="27" startPc="268436175"/>
+        <entry arg="true" endPc="268437112" name="minute" stackId="1" startPc="268437019"/>
+        <entry arg="true" endPc="268437250" name="dc" stackId="1" startPc="268437113"/>
+        <entry endPc="268437250" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268437124"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="58" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/FuzzyTimeApp" offset="125" parentId="globals" symbolId="FuzzyTimeApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="196" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/FuzzyTimeView" offset="249" parentId="globals" symbolId="FuzzyTimeView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="383" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="418" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="453" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="FuzzyTimeApp" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435492" name="getApp" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="Rez" startPc="268435493">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="FuzzyTimeView" startPc="268435513">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435527" name="onStart" parent="FuzzyTimeApp" startPc="268435525">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435555" name="getInitialView" parent="FuzzyTimeApp" startPc="268435528">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435570" name="initialize" parent="FuzzyTimeApp" startPc="268435556">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435573" name="onStop" parent="FuzzyTimeApp" startPc="268435571">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="FuzzyTimeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="FuzzyTimeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435830" name="getFuzzyTimeParts" parent="FuzzyTimeView" startPc="268435574">
+            <param id="hour"/>
+            <param id="minute"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435866" name="onLayout" parent="FuzzyTimeView" startPc="268435831">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435960" name="getMinuteTextTo" parent="FuzzyTimeView" startPc="268435867">
+            <param id="minute"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="FuzzyTimeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436156" name="getHourText" parent="FuzzyTimeView" startPc="268435961">
+            <param id="hour"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436171" name="initialize" parent="FuzzyTimeView" startPc="268436157">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="FuzzyTimeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437018" name="onUpdate" parent="FuzzyTimeView" startPc="268436172">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437112" name="getMinuteText" parent="FuzzyTimeView" startPc="268437019">
+            <param id="minute"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437250" name="WatchFace" parent="Layouts" startPc="268437113">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

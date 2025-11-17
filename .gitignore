@@ -1,0 +1,36 @@
+# Build outputs
+*.prg
+bin/
+gen/
+internal-mir/
+external-mir/
+
+# Developer keys
+*.der
+*.pem
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Garmin SDK
+.Garmin/
+
+# Launcher icon (generated)
+resources/drawables/launcher_icon.png
