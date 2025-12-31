@@ -31,6 +31,3 @@ Thumbs.db
 
 # Garmin SDK
 .Garmin/
-
-# Launcher icon (generated)
-resources/drawables/launcher_icon.png
